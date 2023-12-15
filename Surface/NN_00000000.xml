@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<STAT>
+<TAG>ALL</TAG>
+<VAR>Cloud cover</VAR>
+<UNIT>octas</UNIT>
+<PERIOD>20200203-20200217</PERIOD>
+ <STATION>
+ <MEAN_OBS>   5.34305573     </MEAN_OBS>
+ <STDV_OBS>   3.13952565     </STDV_OBS>
+ <EXP>
+ <ID>        3955 </ID>
+ <NAME>2500m_WOPTMOIST</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   5.96111107     </MEAN>
+ <STDV>  -2.60027533E+13 </STDV>
+ <BIAS>   3.05020213     </BIAS>
+ <RMSE>  0.363633871     </RMSE>
+ <CORR>   2.81231261E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3955 </ID>
+ <NAME>750m_WOPTMOIST</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   7.64688572E-42 </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.99025393     </BIAS>
+ <RMSE>  0.402620554     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.83333349     </MEAN_OBS>
+ <STDV_OBS>   2.58956099     </STDV_OBS>
+ <EXP>
+ <ID>        3962 </ID>
+ <NAME>2500m_WOPTMOIST</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   6.71250010     </MEAN>
+ <STDV>   2.88995965E+29 </STDV>
+ <BIAS>   2.84601617     </BIAS>
+ <RMSE>  0.282693565     </RMSE>
+ <CORR>  -2.60037935E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3962 </ID>
+ <NAME>750m_WOPTMOIST</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.79097939     </BIAS>
+ <RMSE>  0.286428154     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.23611116     </MEAN_OBS>
+ <STDV_OBS>   3.45699430     </STDV_OBS>
+ <EXP>
+ <ID>        3967 </ID>
+ <NAME>2500m_WOPTMOIST</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   5.15972233     </MEAN>
+ <STDV>   2.88990846E+29 </STDV>
+ <BIAS>   2.70432901     </BIAS>
+ <RMSE>  0.555682659     </RMSE>
+ <CORR>   2.88982383E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3967 </ID>
+ <NAME>750m_WOPTMOIST</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.97181177     </BIAS>
+ <RMSE>  0.520622790     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.40416670     </MEAN_OBS>
+ <STDV_OBS>   3.49805236     </STDV_OBS>
+ <EXP>
+ <ID>        3969 </ID>
+ <NAME>2500m_WOPTMOIST</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   5.09166670     </MEAN>
+ <STDV>   2.88981741E+29 </STDV>
+ <BIAS>   2.79267669     </BIAS>
+ <RMSE>  0.541629314     </RMSE>
+ <CORR>   2.88990846E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3969 </ID>
+ <NAME>750m_WOPTMOIST</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.99042177     </BIAS>
+ <RMSE>  0.522600234     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.38063097     </MEAN_OBS>
+ <STDV_OBS>   2.64124227     </STDV_OBS>
+ <EXP>
+ <ID>        3973 </ID>
+ <NAME>2500m_WOPTMOIST</NAME>
+ <NUM>         444 </NUM>
+ <MEAN>   6.60135174     </MEAN>
+ <STDV>   2.81253324E+29 </STDV>
+ <BIAS>   2.42599559     </BIAS>
+ <RMSE>  0.337608725     </RMSE>
+ <CORR>   2.89087522E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3973 </ID>
+ <NAME>750m_WOPTMOIST</NAME>
+ <NUM>         444 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.37117147     </BIAS>
+ <RMSE>  0.453886479     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+</STAT>
